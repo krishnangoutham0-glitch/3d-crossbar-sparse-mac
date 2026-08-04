@@ -4,7 +4,7 @@ __pycache__/
 *.egg-info/
 *.egg
 
-# Virtual Environments
+# Virtual Environment
 venv/
 .env
 
@@ -14,6 +14,9 @@ venv/
 # VS Code
 .vscode/
 
+# JetBrains
+.idea/
+
 # Jupyter
 .ipynb_checkpoints/
 
@@ -22,12 +25,7 @@ venv/
 
 # Temporary
 *.tmp
-*.bak
 
-# Build
-dist/
+# Compiled
 build/
-
-# Generated simulation outputs (keep representative examples only)
-results/software/*.csv
-results/spice/*.csv
+dist/

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+
+title: "3D Crossbar-Based Sparse MAC"
+
+authors:
+  - family-names: Krishnan
+    given-names: Goutham
+
+message: "If you use this work, please cite it."
+
+license: MIT

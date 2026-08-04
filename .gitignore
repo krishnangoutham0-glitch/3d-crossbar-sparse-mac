@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Virtual Environments
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# Build
+dist/
+build/
+
+# Generated simulation outputs (keep representative examples only)
+results/software/*.csv
+results/spice/*.csv
